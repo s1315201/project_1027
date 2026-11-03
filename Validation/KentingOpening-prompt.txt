@@ -1,0 +1,7 @@
+Built-in image_gen tool; use case: illustration-story.
+Final prompt:
+Create a wide 16:9 game opening background illustration of Kenting Main Street night market Taiwan, based on its real-world visual character: eye-level looking down Kenting Road, low concrete mixed-use shop buildings, open roadside striped canopy food carts densely lining both sides, many vertical illuminated Traditional Chinese food signboards, warm bulbs and LED menus, crowds of tourists in summer casual wear, scooters, dark tropical blue dusk sky. Documentary location-inspired hand-inked manga environment with natural perspective, believable human proportions, restrained watercolor and screen-tone shadows, imperfect hand-drawn lines, grounded street realism rather than glossy AI fantasy. Foreground stone tourism pillars bearing clear Traditional Chinese 墾丁大街. No temple South Gate across the road, no fantasy skyline, no photorealism. Rich lively signage but no English gibberish. Leave upper left sky dark enough for game title overlay. Landscape artwork only, no UI, no border.
+
+Output: Assets/Resources/KentingOpening.png
+Reference research: https://uukt.com.tw/attraction/14 and https://commons.wikimedia.org/wiki/File:2014-11-27_Kenting_Main_Street.jpg
+Generated location-inspired art, not an exact photograph transformation.

@@ -1,0 +1,1 @@
+PASS: no-input movement stays straight on a curved road; right input turns 35 degrees in one second; held drift creates tyre marks; releasing steering stops tyre marks.

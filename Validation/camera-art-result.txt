@@ -1,0 +1,1 @@
+PASS: all three camera modes outside scenery and distinct; failure camera outside scenery even with vehicle inside cart. Captured chase, rider, high view and rider portrait.
